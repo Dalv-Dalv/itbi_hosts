@@ -1,0 +1,1 @@
+echo "Prima versiune"
