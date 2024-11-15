@@ -1,1 +1,1 @@
-echo "Prima versiune"
+echo "A doua versiune $1"
